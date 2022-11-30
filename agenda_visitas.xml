@@ -1,0 +1,83 @@
+<PRUEBA>
+
+    <calendario_citas>
+
+        <cita id="1">
+                
+            <fecha>
+                <dia>01</dia>
+                <mes>12</mes>
+                <anio>2022</anio>
+            </fecha>
+
+            <asunto>Reunión fin de año</asunto>
+            <descripcion>Reunión fin de año para todos los trabajadores</descripcion>
+
+            <ubicacion>
+                <direccion>Calle Primera</direccion>
+                <numero>12</numero>
+                <planta>3</planta>
+                <detalles>Sala B</detalles>
+            </ubicacion>
+
+        </cita>
+
+        <cita id="2">
+                
+            <fecha>
+                <dia>04</dia>
+                <mes>12</mes>
+                <anio>2022</anio>
+            </fecha>
+
+            <asunto>Reunión Pedro</asunto>
+            <descripcion>Reunión con Pedro</descripcion>
+
+            <ubicacion>
+                <direccion>Calle Cuadrada</direccion>
+                <numero>1</numero>
+                <planta>Bajo</planta>
+                <detalles></detalles>
+            </ubicacion>
+
+        </cita>
+
+    </calendario_citas>
+
+    <gestion_partners>
+
+        <partner id_partner = "1">     
+            
+            <nombre>Kerry</nombre>
+            <apellidos>Minguez Solorzano</apellidos>
+            <direccion>Avenida Primera 12 3ºF 20013</direccion> 
+            <poblacion>San Sebastián</poblacion>
+            <CIF>Q2826000H</CIF>
+            <telefono>647406554</telefono>
+            <email>k.minguez@gmail.com</email>
+            
+        </partner>
+
+        
+        <partner id_partner = "2">     
+            
+            <nombre>Julen</nombre>
+            <apellidos>Altuna Torres</apellidos>
+            <direccion>Avenida Tercera 2 1ºA 20012</direccion> 
+            <poblacion>San Sebastián</poblacion>
+            <CIF>Q282789Y</CIF>
+            <telefono>644323444</telefono>
+            <email>altvn4@gmail.com</email>
+            
+        </partner>
+
+    </gestion_partners>
+    
+    <gestion_pedidos>
+
+    </gestion_pedidos>
+
+    <envios_delegacion>
+        
+    </envios_delegacion>
+</PRUEBA>
